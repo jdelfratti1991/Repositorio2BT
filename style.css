@@ -6,3 +6,18 @@
 #menu{
 	background-color:black;
 }
+#menu ul{
+	max-width:800px;
+	padding:0;
+}
+#menu ul li{
+	display: inline;
+}
+#menu ul li a{
+	color: #fff;
+	padding:20px;
+	display: inline-block;
+	text-decoration: none;
+	transition: background .4s;
+}
+
