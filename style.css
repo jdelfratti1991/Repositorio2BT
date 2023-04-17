@@ -20,4 +20,21 @@
 	text-decoration: none;
 	transition: background .4s;
 }
+#menu ul li a:hover{
+	background-color:rgb(24,139,233);
+}
+#menu ul li:last-child a{
+	float: right;
+	background-color: rgb(24,139,233);
+}
+.quadrado{
+	float:left;
+	position:relative;
+}
+.block{
+	position:absolute;
+	background:black;
+	
+}
+
 
